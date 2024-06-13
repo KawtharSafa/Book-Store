@@ -1,2 +1,1 @@
-# Book-Store
-A bookstore MERN project
+A MERN stack bookstore project with a focus on Backend API building 
